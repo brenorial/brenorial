@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Nice to see you here! <br>I'm Breno Almeida, 25 years old, a carioca boy, and super into data science and technology. <br>I’m all about diving into numbers and code, always looking for creative ways to solve problems and bring ideas to life!<br><br>- Data Analyst <br>- Cloud Developer<br>- MBA in Big Data & Business Intelligence from Veiga de Almeida<br>- Bachelor’s in Cybersecurity from UNESA<br>- Bachelor’s in History from Universidade Federal do Estado do Rio de Janeiro<br>- Working at RioSaúde as Data Analyst</h5>
+<p align="left">Nice to see you here! <br>I'm Breno Almeida, 25 years old, a carioca boy, and super into data science and technology. <br>I’m all about diving into numbers and code, always looking for creative ways to solve problems and bring ideas to life!<br><br>- Data Analyst <br>- Cloud Developer<br>- MBA in Big Data & Business Intelligence from Veiga de Almeida<br>- Bachelor’s in Cybersecurity from UNESA<br>- Bachelor’s in History from Universidade Federal do Estado do Rio de Janeiro<br>- Working at RioSaúde as Data Analyst</p>
 
 ###
 
