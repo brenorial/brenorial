@@ -43,7 +43,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenorial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=brenorial&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenorial&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenorial&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=20232a&point=9496AF&line=00c0f3&title_color=00c0f3&color=00c0f3" height="257" alt="activity-graph graph"  />
 </div>
 
 ###
