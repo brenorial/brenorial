@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
@@ -28,15 +28,15 @@
 
 ###
 
-<h2 align="left">Portfolio</h2>
+<h2 align="left">Portfólio</h2>
 
 ###
 
-<p align="left">Click on the link below to see some of my projects! <br>https://brenorial.github.io/portfoliobrial.github.io/</p>
+<p align="left">Veja alguns dos meus projetos no link abaixo!</p>
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Find Me</h2>
+<h2 align="left">Encontre-me</h2>
 
 ###
 
