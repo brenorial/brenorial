@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Nice to see you here! <br>I'm Breno Almeida, 25 years old, a carioca boy, and super into data science and technology. <br>I’m all about diving into numbers and code, always looking for creative ways to solve problems and bring ideas to life!<br><br>- Data Analyst <br>- Cloud Developer<br>- MBA in Big Data & Business Intelligence from Veiga de Almeida<br>- Bachelor’s in Cybersecurity from UNESA<br>- Bachelor’s in History from Universidade Federal do Estado do Rio de Janeiro<br>- Working at RioSaúde as Data Analyst</p>
+<p align="left">Que bom te ver por aqui! <br>Sou Breno Almeida, tenho 25 anos, sou carioca e apaixonado por ciência de dados e tecnologia. <br>Adoro mergulhar em números e códigos, sempre buscando maneiras criativas de resolver problemas e transformar ideias em realidade!<br><br>- Analista de Dados <br>- Desenvolvedor em Nuvem<br>- MBA em Big Data & Business Intelligence pela Veiga de Almeida<br>- Bacharel em Cibersegurança pela UNESA<br>- Bacharel em História pela Universidade Federal do Estado do Rio de Janeiro<br>- Trabalhando na RioSaúde como Analista de Dados</p>
 
 ###
 
