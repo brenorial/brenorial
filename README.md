@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Veja alguns dos meus projetos no link abaixo!</p>
+<p align="left">Clique <a href="https://brenorial.github.io/portfoliobrial.github.io" target="_blank">aqui</a> e veja alguns dos meus projetos!</p>
 
 ###
 
