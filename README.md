@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Que bom te ver por aqui! <br>Sou Breno Almeida, tenho 25 anos, sou carioca e fã de ciência de dados e tecnologia. <br>Minha praia é mergulhar em números e códigos, sempre buscando maneiras criativas de resolver problemas e transformar ideias em realidade!<br><br>- Analista de Dados <br>- Desenvolvedor em Nuvem<br>- MBA em Big Data & Business Intelligence pela Veiga de Almeida<br>- Tecnólogo em Cibersegurança pela UNESA<br>- Licenciado em História pela Universidade Federal do Estado do Rio de Janeiro<br>- Desenvolvedor Full Stack pela PUC-RIO<br>- Docente de Ciência de Dados na Estácio de Sá <br>- Analista de Dados na RioSaúde</p>
+<p align="left">Que bom te ver por aqui! <br>Sou Breno Almeida, tenho 25 anos, sou carioca e fã de ciência de dados e tecnologia. <br>Minha praia é mergulhar em números e códigos, sempre buscando maneiras criativas de resolver problemas e transformar ideias em realidade!<br><br>- Analista de Dados <br>- Docente Ensino Técnico da Universidade Estácio de Sá<br>- Desenvolvedor Full Stack pela PUC-RIO<br>- MBA em Big Data & Business Intelligence pela Veiga de Almeida<br>- Tecnólogo em Cibersegurança pela UNESA<br>- Licenciado em História pela Universidade Federal do Estado do Rio de Janeiro<br>- Docente de Ciência de Dados na Estácio de Sá <br>- Analista de Dados na RioSaúde</p>
 
 ###
 
