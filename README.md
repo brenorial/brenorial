@@ -65,7 +65,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 
 <p align="left">
 🚀 Veja meus projetos em produção e estudos aplicados clicando 
-<a href="https://brenorial.github.io/portfoliobrial.github.io" target="_blank"><strong>aqui</strong></a>.
+<a href="https://rialdata.vercel.app/" target="_blank"><strong>aqui</strong></a>.
 </p>
 
 <p align="left">
