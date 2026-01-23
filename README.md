@@ -28,7 +28,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" height="38" alt="SQL / Data" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
@@ -43,6 +43,12 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40" alt="Power BI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" height="40" alt="Figma" />
 </div>
 
 <br>
