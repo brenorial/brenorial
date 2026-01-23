@@ -9,7 +9,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 🔹 <strong>Atuação atual</strong><br>
 🧠 Engenheiro de Dados na <strong>RioSaúde</strong><br>
 👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong><br>
-📊 Consultor de Dados na <strong>RialData/<strong><br>
+📊 Consultor de Dados na <strong>RialData</strong><br>
 <br>
 
 🎓 <strong>Formação acadêmica</strong><br>
@@ -28,7 +28,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL / PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
