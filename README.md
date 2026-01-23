@@ -28,7 +28,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL / PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" height="38" alt="SQL / Data" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
