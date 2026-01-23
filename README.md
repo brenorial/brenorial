@@ -9,8 +9,8 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 🔹 <strong>Atuação atual</strong><br>
 🧠 Engenheiro de Dados na <strong>RioSaúde</strong><br>
 👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong><br>
-📊 Consulto de Dados na <strong>RialData/<strong><br>
-<br><br>
+📊 Consultor de Dados na <strong>RialData/<strong><br>
+<br>
 
 🎓 <strong>Formação acadêmica</strong><br>
 🎓 Pós-Graduado em <strong>Desenvolvimento Full Stack</strong> — PUC-Rio<br>
