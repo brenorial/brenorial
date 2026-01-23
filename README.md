@@ -8,8 +8,8 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 
 🔹 <strong>Atuação atual</strong><br>
 🧠 Engenheiro de Dados na <strong>RioSaúde</strong><br>
-📊 Atuação com pipelines de dados, modelagem analítica, BI e automação<br>
 👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong>
+📊 Consulto de Dados na <strong>RialData/<strong><br>
 <br><br>
 
 🎓 <strong>Formação acadêmica</strong><br>
