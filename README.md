@@ -8,7 +8,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 
 🔹 <strong>Atuação atual</strong><br>
 🧠 Engenheiro de Dados na <strong>RioSaúde</strong><br>
-👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong>
+👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong><br>
 📊 Consulto de Dados na <strong>RialData/<strong><br>
 <br><br>
 
@@ -45,6 +45,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
+<br>
 <br>
 
 <p align="center">
