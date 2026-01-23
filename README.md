@@ -36,7 +36,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="38" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
   <img width="12" />
@@ -44,6 +44,8 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
+
+<br>
 
 <p align="center">
 ⚙️ Engenharia de Dados · 📊 Analytics & BI · 🧱 Modelagem de Dados · ☁️ Cloud · 🐳 Containers · 📈 Visualização
