@@ -68,18 +68,6 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 <a href="https://rialdata.vercel.app/" target="_blank"><strong>aqui</strong></a>.
 </p>
 
-<p align="left">
-🧠 Conheça também o núcleo de inteligência onde atuo na RioSaúde 
-<a href="https://sites.google.com/view/inteligencia-riosaude/" target="_blank"><strong>aqui</strong></a>.
-</p>
-
----
-
-<h2 align="left">📈 Estatísticas</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenorial&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&bg_color=20232a&line=00c0f3&title_color=00c0f3&color=00c0f3" height="260" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
