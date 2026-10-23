@@ -2,8 +2,7 @@
 
 <p align="left">
 Que bom te ver por aqui! <br><br>
-Sou <strong>Breno Almeida</strong>, carioca, apaixonado por <strong>dados, tecnologia e construção de soluções inteligentes</strong>.  
-Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>, sempre com foco em impacto real, automação e qualidade da informação.
+Sou <strong>Breno Almeida</strong> e atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>, com foco em impacto real, automação e qualidade da informação.
 <br><br>
 
 🔹 <strong>Atuação atual</strong><br>
