@@ -7,7 +7,7 @@ Atuo unindo <strong>engenharia de dados, analytics e visão de negócio</strong>
 <br><br>
 
 🔹 <strong>Atuação atual</strong><br>
-🧠 Engenheiro de Dados na <strong>RioSaúde</strong><br>
+🧠 Engenheiro de Dados na <strong>Secretaria Municipal de Saúde do Rio de Janeiro</strong><br>
 👨‍🏫 Docente do Ensino Técnico na <strong>Universidade Estácio de Sá</strong><br>
 📊 Consultor de Dados na <strong>RialData</strong><br>
 <br>
